@@ -17,7 +17,8 @@ Nando Rey
  Ich habe mir eigentlich vorgenommen in LP2 an einem Projekt zu arbeiten, aber ich habe gemerkt, dass ich an den Modulen arbeiten muss, weil ich dringend bessere Noten 
  brauche. Mein VBV war, besser an den Mpdulen zu arbeiten und gute Noten zu holen.
 
- Mein Projekt in der LP3 ist das Projekt im Modul 164, da geht es um SQL und dabei lerne ich SQL und habe eine gute Note im Modul.
+ Mein Projekt in der LP3 ist das Projekt im Modul 164, da geht es um SQL-Datenbanken und dabei lerne ich SQL und habe eine gute Note im Modul und diese Note wird wichtig 
+ sein.
 
  
 ## 12.1.2024
