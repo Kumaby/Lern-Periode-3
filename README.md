@@ -14,8 +14,10 @@ Nando Rey
  Modul 162, da habe ich zwar im Portfolio eine 5 gemacht, aber im Test eine 2,3 und da das Portfolio nicht zu 
  100% zählt wurde es nicht auf eine 3 aufgerundet und habe im Informatik einen Gesamtschnitt von 3,5 und das ist nicht gut genug.
 
- Ich habe mir eigentlich vorgenommen in LP-2 an einem Projekt zu arbeiten, aber ich habe gemerkt, dass ich an den Modulen arbeiten muss, weil ich dringend bessere Noten 
- brauche
+ Ich habe mir eigentlich vorgenommen in LP2 an einem Projekt zu arbeiten, aber ich habe gemerkt, dass ich an den Modulen arbeiten muss, weil ich dringend bessere Noten 
+ brauche. Mein VBV war, besser an den Mpdulen zu arbeiten und gute Noten zu holen.
+
+ Mein Projekt in der LP3 ist das Projekt im Modul 164, da geht es um SQL und dabei lerne ich SQL und habe eine gute Note im Modul.
 
  
 ## 12.1.2024
