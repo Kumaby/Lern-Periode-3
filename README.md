@@ -10,6 +10,14 @@ Nando Rey
 2. Was hatten Sie sich am Ende von LP2 vorgenommen? Was war Ihr VBV? Wie könnten Sie diesen besonders gut üben?
 3. Was wäre ein geeignetes Projekt würd diese LP3?
 
+ Ich habe im Modul 431 und 319 einen 4 geschrieben, es ist nicht eine starke Note aber besser als meine Note im 
+ Modul 162, da habe ich zwar im Portfolio eine 5 gemacht, aber im Test eine 2,3 und da das Portfolio nicht zu 
+ 100% zählt wurde es nicht auf eine 3 aufgerundet und habe im Informatik einen Gesamtschnitt von 3,5 und das ist nicht gut genug.
+
+ Ich habe mir eigentlich vorgenommen in LP-2 an einem Projekt zu arbeiten, aber ich habe gemerkt, dass ich an den Modulen arbeiten muss, weil ich dringend bessere Noten 
+ brauche
+
+ 
 ## 12.1.2024
 
 ✍️ Heute habe ich... (50-100 Wörter)
@@ -27,7 +35,6 @@ Nando Rey
 | 4   |     |     |     |     |
 
 ✍️ Heute am 16.1 habe ich... (50-100 Wörter)
-
 ☝️ Vergessen Sie nicht, bis zum 16.1 einen ersten Code auf github hochzuladen, und in der Spalte **Erfüllt?** einzutragen, ob Ihr Code die Test-Fälle erfüllt
 
 ## 26.1.2024
