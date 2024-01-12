@@ -14,7 +14,7 @@ Nando Rey
     Modul 162, da habe ich zwar im Portfolio eine 5 gemacht, aber im Test eine 2,3 und da das Portfolio nicht zu 
     100% zählt wurde es nicht auf eine 3 aufgerundet und habe im Informatik einen Gesamtschnitt von 3,5 und das ist nicht gut genug.
 
-2)  Ich habe mir eigentlich vorgenommen in LP2 an einem Projekt zu arbeiten, aber ich habe gemerkt, dass ich an den Modulen arbeiten muss, weil ich dringend bessere Noten 
+ 2) Ich habe mir eigentlich vorgenommen in LP2 an einem Projekt zu arbeiten, aber ich habe gemerkt, dass ich an den Modulen arbeiten muss, weil ich dringend bessere Noten 
     brauche. Mein VBV war, besser an den Mpdulen zu arbeiten und gute Noten zu holen.
 
  3) Mein Projekt in der LP3 ist das Projekt im Modul 164, da geht es um SQL-Datenbanken und dabei lerne ich SQL und habe eine gute Note im Modul und diese Note wird wichtig 
@@ -22,13 +22,14 @@ Nando Rey
 
 ## 12.1.2024
 
-✍️ Heute habe ich... (50-100 Wörter)
+Heute habe ich gestartet für das SQL-Projekt im Modul 164 zu üben, ich habe als erstes ein Video geschaut wie man eine Datenbank herstellt und das schritt für schritt ausgeführt, danach ein tutorial wie man eine Tabelle herstellt und wie man sachen in die Tabelle einfügt, wie INT, VARCHAR, PRIMARY KEYS und noch mehr. Das schauen der Tutorials hat mir gut weitergeholfen. (62)
 
 ## 19.1.2024
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [ ] Viertes AP
+- [ ] an SQL-Tutorial Datensätze hinzufügen arbeiten
+- [ ] M164 aufgabe 7704 lösen, 7705 anfangen
+- [ ] M164 aufgabe 7705 fertig lösen, an SQL-tutorial SELECT abfragen arbeiten
+- [ ] an M164 SQL-Projekt Datenbank und Tabellen machen
 
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | --- | --- | --- | --- | --- |
@@ -41,12 +42,10 @@ Nando Rey
 
 ## 26.1.2024
 
-- [ ] Fünftes AP
-  
-- [ ] Spiel endet, wenn Schlange sich selber beisst
-  
-- [ ] Achtes AP
-  
+- [ ] M164 SQL-tutorial Text Datentypen arbeiten
+- [ ] M164 aufgabe 7711 lösen
+- [ ] SQL-Projekt weiterführen (vielleicht arbeite ich in der schule daran, deshalb ungenau)
+- [ ] SQL-Projekt weiterführen (vielleicht arbeite ich in der schule daran, deshalb ungenau)
 
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | --- | --- | --- | --- | --- |
