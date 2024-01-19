@@ -26,19 +26,14 @@ Heute habe ich gestartet für das SQL-Projekt im Modul 164 zu üben, ich habe al
 
 ## 19.1.2024
 
-- [ ] an SQL-Tutorial Datensätze hinzufügen arbeiten
-- [ ] M164 aufgabe 7704 lösen, 7705 anfangen
-- [ ] M164 aufgabe 7705 fertig lösen, an SQL-tutorial SELECT abfragen arbeiten
+- [x] an SQL-Tutorial Datensätze hinzufügen arbeiten
+- [x] M164 aufgabe 7704 lösen, 7705 anfangen
+- [x] M164 aufgabe 7705 fertig lösen, an SQL-tutorial SELECT abfragen arbeiten
 - [ ] an M164 SQL-Projekt Datenbank und Tabellen machen
 
-| Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
-| --- | --- | --- | --- | --- |
-| 1   |     |     |     |     |
-| ... |     |     |     |     |
-| 4   |     |     |     |     |
 
-✍️ Heute am 16.1 habe ich... (50-100 Wörter)
-☝️ Vergessen Sie nicht, bis zum 16.1 einen ersten Code auf github hochzuladen, und in der Spalte **Erfüllt?** einzutragen, ob Ihr Code die Test-Fälle erfüllt
+Heute am 16.1 habe ich an den Datensätzen in meiner SQL Datenbank mit dem Tutorial gearbeitet, nach dem tutorial habe ich die Moodle Aufgaben für das Modul 164 gemacht, zuerst hatte ich noch probleme da ich noch nicht sehr viel ahnung von allem hatte, konnte aber nach einiger Zeit herausfinden was ich zu tun habe, bei der zweiten Aufgabe wars ähnlich aber ich konnte es schneller bewältigen, da ich Zeit brauchte um alles zu verstehen konnte ich das letzte arbeitspaket nicht bewältigen können.
+
 
 ## 26.1.2024
 
