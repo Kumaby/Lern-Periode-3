@@ -40,13 +40,8 @@ Heute am 16.1 habe ich an den Datensätzen in meiner SQL Datenbank mit dem Tutor
 - [ ] M164 SQL-tutorial Text/Zahlen Datentypen arbeiten
 - [ ] M164 aufgabe 7711 lösen
 - [ ] SQL-Projekt weiterführen Datenbank und Tabellen machen
-- [ ] SQL-Projekt weiterführen 
+- [ ] SQL-Projekt weiterführen Tabellen planen
 
-| Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
-| --- | --- | --- | --- | --- |
-| 5   |     |     |     |     |
-| 7   | Spiel gestartet, Schlange lang genug, dass sie sich beissen kann | Schlange beisst sich selber | Spiel endet |     |
-| 8   |     |     |     |     |
 
 ✍️ Heute am 23.1 habe ich... (50-100 Wörter)
 
