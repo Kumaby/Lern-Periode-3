@@ -15,7 +15,7 @@ Nando Rey
     100% zählt wurde es nicht auf eine 3 aufgerundet und habe im Informatik einen Gesamtschnitt von 3,5 und das ist nicht gut genug.
 
  2) Ich habe mir eigentlich vorgenommen in LP2 an einem Projekt zu arbeiten, aber ich habe gemerkt, dass ich an den Modulen arbeiten muss, weil ich dringend bessere Noten 
-    brauche. Mein VBV war, besser an den Mpdulen zu arbeiten und gute Noten zu holen.
+    brauche. Mein VBV war, besser an den Modulen zu arbeiten und gute Noten zu holen.
 
  3) Mein Projekt in der LP3 ist das Projekt im Modul 164, da geht es um SQL-Datenbanken und dabei lerne ich SQL und habe eine gute Note im Modul und diese Note wird wichtig 
     sein.
