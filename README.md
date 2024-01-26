@@ -45,8 +45,6 @@ Heute am 16.1 habe ich an den Datensätzen in meiner SQL Datenbank mit dem Tutor
 
 Heute habe ich weiter an SQL-gearbeitet und ein paar tabellen gemacht. Anfangs habe ich noch mit einem Video geübt, wie man genau Tabellen macht und nach dem Video einen Auftrag für das Modul 164 gelöst. Danach habe ich selbstständig an etwas in SQL gearbeitet um ein bisschen was auszuprobieren. Heute Nachmittag habe ich nicht sehr gut gearbeitet und war meist unkonzentriert, deswegen habe ich nicht alles gemacht. Da ich an den Modulen nud nicht an einem Projekt gearbeitet habe, kann ich nur eins meiner SQL codes hochladen.
 
-☝️ Vergessen Sie nicht, bis zum 23.1 Ihren fixfertigen Code auf github hochzuladen, und in der Spalte **Erfüllt?** einzutragen, ob Ihr Code die Test-Fälle erfüllt
-
 ## 16.2.2024
 
 ✍️ Heute am 23.1 habe ich... (50-100 Wörter)
