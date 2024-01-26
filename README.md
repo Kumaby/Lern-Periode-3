@@ -37,10 +37,10 @@ Heute am 16.1 habe ich an den Datensätzen in meiner SQL Datenbank mit dem Tutor
 
 ## 26.1.2024
 
-- [ ] M164 SQL-tutorial Text Datentypen arbeiten
+- [ ] M164 SQL-tutorial Text/Zahlen Datentypen arbeiten
 - [ ] M164 aufgabe 7711 lösen
-- [ ] SQL-Projekt weiterführen (vielleicht arbeite ich in der schule daran, deshalb ungenau)
-- [ ] SQL-Projekt weiterführen (vielleicht arbeite ich in der schule daran, deshalb ungenau)
+- [ ] SQL-Projekt weiterführen Datenbank und Tabellen machen
+- [ ] SQL-Projekt weiterführen 
 
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | --- | --- | --- | --- | --- |
