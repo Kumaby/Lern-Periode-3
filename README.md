@@ -39,7 +39,7 @@ Heute am 16.1 habe ich an den Datensätzen in meiner SQL Datenbank mit dem Tutor
 
 - [x] M164 SQL-tutorial Text/Zahlen Datentypen arbeiten
 - [x] M164 aufgabe 7711 lösen
-- [ ] SQL-Projekt weiterführen Datenbank und Tabellen machen
+- [x] SQL-Projekt weiterführen Datenbank und Tabellen machen
 - [ ] SQL-Projekt weiterführen Tabellen planen
 
 
