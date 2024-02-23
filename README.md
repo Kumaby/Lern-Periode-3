@@ -51,6 +51,7 @@ Heute habe ich weiter an SQL-gearbeitet und ein paar tabellen gemacht. Anfangs h
 
 ## Reflexion
 
-Formen Sie Ihre Zusammenfassungen in Hinblick auf Ihren VBV zu einem zusammenhängenden Text von 100 bis 200 Wörtern (wieder mit Angabe in Klammern).
+Ich habe weiter an den Modulen hart gearbeitet und habe auf die letzten 2 Noten bessere aussichten als zuvor, also denke ich, dass wenn ich nur noch ein bisschen konzentrierter arbeiten kann würde ich noch bessere Noten machen. Das Problem ist nur das ich während den anderen Informatik Lektionen schlechter arbeite als im Lernatelier, was nicht sehr gut ist. Im Lernatelier bin ich sonst zufrieden mit meiner Arbeit. Ich denke auch, dass ich kein eigenständiges Projekt anfangen werde, sondern weiter so wie momentan arbeiten werde, eben weil ich zuerst im anderen informatik Unterricht verbessern muss
 
-Verfassen Sie zusätzlich einen kurzen Abschnitt, in welchem Sie über die Länge der Projekte reflektieren: Fanden Sie die 10-wöchtige LP2 oder die 4-wöchige LP3 angenehmer? Was bedeutet das für Ihre Planung der zukünftigen LP?
+Für mich waren beide Lernperioden gleich, weil ich bei beiden hauptsächlich an den Modulen gearbeitet habe.
+Ich habe meistens gut geplant bis jetzt, also möchte ich das weiterhin so machen.
