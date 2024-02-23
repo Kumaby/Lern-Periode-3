@@ -53,5 +53,5 @@ Heute habe ich weiter an SQL-gearbeitet und ein paar tabellen gemacht. Anfangs h
 
 Ich habe weiter an den Modulen hart gearbeitet und habe auf die letzten 2 Noten bessere aussichten als zuvor, also denke ich, dass wenn ich nur noch ein bisschen konzentrierter arbeiten kann würde ich noch bessere Noten machen. Das Problem ist nur das ich während den anderen Informatik Lektionen schlechter arbeite als im Lernatelier, was nicht sehr gut ist. Im Lernatelier bin ich sonst zufrieden mit meiner Arbeit. Ich denke auch, dass ich kein eigenständiges Projekt anfangen werde, sondern weiter so wie momentan arbeiten werde, eben weil ich zuerst im anderen informatik Unterricht verbessern muss
 
-Für mich waren beide Lernperioden gleich, weil ich bei beiden hauptsächlich an den Modulen gearbeitet habe.
+Für mich war in der Lernperiode 3 definitiv produktiver was die Module anbelangt, obwohl ich bei beiden Lernperioden hauptsächlich an den Modulen gearbeitet habe, war die LP-3 viel besser.
 Ich habe meistens gut geplant bis jetzt, also möchte ich das weiterhin so machen.
